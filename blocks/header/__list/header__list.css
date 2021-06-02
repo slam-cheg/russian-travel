@@ -1,5 +1,7 @@
 .header__list {
     list-style: none;
-    display: flex;
-    padding: 0;
+    display: inherit;
+    margin: 0;
+    max-height: 20px;
+    padding: 24px 0 0 0;
 }
